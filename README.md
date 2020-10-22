@@ -4,4 +4,3 @@
 - Shows the rgb value of both colors in the gradient
 - Gives you the option to copy the gradient directly
 
-Visit [Gradient Background Generator](https://justehmadsaeed.github.io/Gradient-Background-Generator-App/) to use this tool, Hope you love it.
